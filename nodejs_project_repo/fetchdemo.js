@@ -19,3 +19,4 @@ class FetchUserDetails
 }
 new FetchUserDetails().fetchData()
 //changes has been made
+//changes for the sample branch
